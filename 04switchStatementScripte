@@ -1,0 +1,17 @@
+var  grade = "premium";
+
+switch (grade)
+{
+  case "regular":
+		alert("it's $3.15");
+		break;
+	case "premium":
+		alert("it's $3.35");
+		break;
+	case "diesel":
+		alert("it's $2.25");
+		break;
+	default:
+		alert("that's not a valid grade");
+
+}
