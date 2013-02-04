@@ -1,0 +1,12 @@
+Var a = 5;
+var b = 10;
+
+if(a < b)
+{
+  alert("yes, a is less than b");
+
+}
+if(a == b)
+{
+	alert("a is equal to b");
+}
