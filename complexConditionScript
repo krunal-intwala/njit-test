@@ -1,0 +1,14 @@
+var balance = 5000;
+
+if (balance >= 0) 
+{
+  alert("the balance is positive");
+	if (balance > 10000)
+	{
+	alert("the balance is large!");
+	}
+} 
+else 
+{
+alert("the balance is negative");
+}
