@@ -1,0 +1,19 @@
+var a = 123;
+
+var b = "123";
+
+
+// exact equality check
+
+if ( a === b ) 
+{
+
+  alert("yes, they are equal");
+
+} 
+else 
+{
+   
+	alert("no, they're not equal");
+
+}
